@@ -1,0 +1,13 @@
+nav a:hover{
+color: brown;
+
+}
+nav a{
+    
+    padding-left: 20px;
+    float: left;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+  
+}

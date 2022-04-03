@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Thanchi",
+    "price": 4200,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Thanchi.jpg/800px-Thanchi.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Bogalake",
+    "price": 5200,
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3d/56/54/boga-lake.jpg?w=1200&h=-1&s=1"
+  },
+  {
+    "id": "3",
+    "name": "Keoukradong",
+    "price": 3000,
+    "img": "https://www.travelmate.com.bd/wp-content/uploads/2019/07/keokradong-6-1024x550.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Ratargul",
+    "price": 3320,
+    "img": "https://www.travelmate.com.bd/wp-content/uploads/2019/07/Ratargul-1000x530.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Chandranath",
+    "price": 1220,
+    "img": "https://www.observerbd.com/2018/05/23/1527094921.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Sajek",
+    "price": 6420,
+    "img": "https://i.pinimg.com/originals/46/89/12/468912d2dbdc6b89f5c8bb489c6eb00a.jpg"
+  },
+  {
+    "id": "7",
+    "name": "saintMartin",
+    "price": 60000,
+    "img": "https://travelvibe.net/wp-content/uploads/2021/03/Most-attractive-tourist-attraction-of-bangladesh-saint-martin-e1615271792566.jpg"
+  },
+  {
+    "id": "8",
+    "name": "coxsbazar",
+    "price": 4270,
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1"
+  },
+  {
+    "id": "9",
+    "name": "Sundarban",
+    "price": 9000,
+    "img": "https://cdn.bangladeshscenictours.com/wp-content/uploads/2019/11/Sundarban-Safari-990x490.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Sunamganj",
+    "price": 6000,
+    "img": "https://pbs.twimg.com/media/C_6d1X1UQAAKkP6.jpg"
+  }
+]
